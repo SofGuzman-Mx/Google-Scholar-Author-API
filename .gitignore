@@ -36,3 +36,18 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Log files ###
+*.log
+.log.
+
+Archivos de configuración de IDEs
+.idea/
+.vs/
+*.iml
+*.iws
+*.ipr
+
+Archivos del sistema operativo
+.DS_Store
+Thumbs.db
